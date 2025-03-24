@@ -38,6 +38,7 @@ Drive-Sync is an innovative driving game that can be controlled using **hand ges
 - Add multiplayer mode.
 - Implement additional environments and challenges.
 - Enhance gesture recognition accuracy.
+- integrating with modern games
 
 ## 🧑‍🤝‍🧑 Contributing
 Feel free to contribute to Drive-Sync! You can submit issues, suggest improvements, or create pull requests.
